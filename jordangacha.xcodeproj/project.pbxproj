@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DBB5A42D218E065700DA2D12 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBB5A42C218E065700DA2D12 /* Media.xcassets */; };
 		DBC84F2C218DB0C100DEE3C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBC84F2B218DB0C100DEE3C7 /* AppDelegate.swift */; };
 		DBC84F2E218DB0C100DEE3C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBC84F2D218DB0C100DEE3C7 /* ViewController.swift */; };
 		DBC84F31218DB0C100DEE3C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBC84F2F218DB0C100DEE3C7 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DBB5A42C218E065700DA2D12 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		DBC84F28218DB0C100DEE3C7 /* jordangacha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = jordangacha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBC84F2B218DB0C100DEE3C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DBC84F2D218DB0C100DEE3C7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		DBC84F1F218DB0C100DEE3C7 = {
 			isa = PBXGroup;
 			children = (
+				DBB5A42C218E065700DA2D12 /* Media.xcassets */,
 				DBC84F2A218DB0C100DEE3C7 /* jordangacha */,
 				DBC84F3F218DB0C300DEE3C7 /* jordangachaTests */,
 				DBC84F4A218DB0C300DEE3C7 /* jordangachaUITests */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBB5A42D218E065700DA2D12 /* Media.xcassets in Resources */,
 				DBDF76D9218DFFC6000A4E27 /* jordan in Resources */,
 				DBC84F36218DB0C300DEE3C7 /* LaunchScreen.storyboard in Resources */,
 				DBC84F33218DB0C300DEE3C7 /* Assets.xcassets in Resources */,
